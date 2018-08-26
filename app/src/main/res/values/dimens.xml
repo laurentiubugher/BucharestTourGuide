@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_dimension">120dp</dimen>
+    <dimen name="layout_padding">16dp</dimen>
+    <dimen name="place_name_height">44dp</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bucharest Tour Guide</string>
+    <string name="PlaceName">PlaceName</string>
+    <string name="address">address</string>
+    <string name="category_attractions">To Visit</string>
+    <string name="category_restaurants">Food</string>
+    <string name="category_gyms">Gyms</string>
+    <string name="category_cinemas">Cinemas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
